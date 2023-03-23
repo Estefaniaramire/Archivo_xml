@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computadoras>
+  <computadora>
+    <marca>Lenovo</marca>
+    <modelo>IdeaPad 5</modelo>
+    <procesador>Intel Core i5-1135G7</procesador>
+    <memoria>8GB DDR4</memoria>
+    <almacenamiento>512GB SSD</almacenamiento>
+    <pantalla>15.6 pulgadas FHD</pantalla>
+    <tarjeta_grafica>Intel Iris Xe Graphics</tarjeta_grafica>
+    <sistema_operativo>Windows 10 Home</sistema_operativo>
+    <precio>750.99</precio>
+  </computadora>
+  <computadora>
+    <marca>Apple</marca>
+    <modelo>MacBook Pro</modelo>
+    <procesador>Apple M1</procesador>
+    <memoria>16GB LPDDR4X</memoria>
+    <almacenamiento>512GB SSD</almacenamiento>
+    <pantalla>13.3 pulgadas Retina</pantalla>
+    <tarjeta_grafica>Apple M1 Graphics</tarjeta_grafica>
+    <sistema_operativo>macOS Big Sur</sistema_operativo>
+    <precio>1499.99</precio>
+  </computadora>
+  <computadora>
+    <marca>Dell</marca>
+    <modelo>XPS 13</modelo>
+    <procesador>Intel Core i7-1165G7</procesador>
+    <memoria>16GB LPDDR4x</memoria>
+    <almacenamiento>512GB SSD</almacenamiento>
+    <pantalla>13.4 pulgadas FHD</pantalla>
+    <tarjeta_grafica>Intel Iris Xe Graphics</tarjeta_grafica>
+    <sistema_operativo>Windows 10 Pro</sistema_operativo>
+    <precio>1299.99</precio>
+  </computadora>
+</computadoras>
